@@ -1,8 +1,8 @@
 # **🚀 2-Day Python Bootcamp: Build Your Programming Foundations**
 
-[![Duration](https://img.shields.io/badge/duration-2_days-blue)]
-[![Level](https://img.shields.io/badge/experience-beginner-blue)]
-[![Format](https://img.shields.io/badge/format-live_online-blue)]
+![Duration](https://img.shields.io/badge/duration-2_days-blue)
+![Level](https://img.shields.io/badge/experience-beginner-blue)
+![Format](https://img.shields.io/badge/format-live_online-blue)
 
 ---
 
