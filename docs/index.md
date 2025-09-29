@@ -96,11 +96,11 @@ This is your chance to start programming from scratch in just **2 days** with th
 
 ## **Enrolment & next steps**
 
-* **Cohort start:** _Next intake opens soon — Register Below_  
-* **Price:** 300 CAD
+* **Bootcamp Dates:** 8th/9th November, 2025 OR 22nd/23rd November, 2025  
+* **Price:** 200 CAD
 * **Seats:** Limited to 10 to keep workshops interactive
 
-[**Register Now →**](https://forms.gle/pZHM9sbEb2T3ZyRE9)
+[**Register Now →**](https://forms.gle/x7qAfwzBngdA2UfH6)
 
 Have questions? Email **hello@qurioskill.com**
 
