@@ -1,4 +1,4 @@
-site_name: Python Bootcamp
+site_name: 2 Day Python Bootcamp
 site_url: https://qurioskill.github.io/Python-Bootcamp/
 theme:
   name: material
@@ -12,9 +12,13 @@ theme:
     - navigation.instant       # fast page transitions
     - navigation.sections
     - search.highlight
-    - content.code.annotate    # call-out markers in code blocks
+    - content.code.annotate
+    - content.tooltips
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github # icon repo
 nav:
-  - Overview: index.md
+  - Bootcamp: index.md
 plugins:
   - search
 markdown_extensions:

@@ -27,21 +27,31 @@ By the end of this bootcamp, learners will be able to:
 
 ## **📅 Session Plan (High Level)**
 
-### **Day 1 (9:00 AM – 5:00 PM)**  
-* Welcome & Technical Setup (Install PyCharm, access resources)  
-* Programming Mindset – What coding really means & how Python runs code  
-* Core Building Blocks – Data Types, Variables, Input/Output  
-* Practice Session – Guided coding exercises  
-* Flow of Control – Conditionals and Loops  
-* Practice Session – Apply flow control to real problems  
+### **Day 1 (9:00 AM – 5:00 PM)**
 
-### **Day 2 (9:00 AM – 5:00 PM)**  
-* Revision – Refresh Day 1’s concepts  
-* Functions & Reusing Code – Write modular, reusable programs  
-* Practice Session – Build confidence with exercises  
-* Modules & Packages – Explore Python’s built-in and external tools  
-* Mega Practice Session – Apply everything in larger coding challenges  
-* Closing & Next Steps – Roadmap for continuing your programming journey  
+| Time Slot | Session |
+|-----------|---------|
+| 9:00 – 9:55 AM | Welcome & Technical Setup (Install PyCharm, access resources) |
+| 10:00 – 10:25 AM | Programming Mindset – What coding really means & how Python runs code |
+| 10:30 – 12:00 PM | Core Building Blocks – Data Types, Variables, Input/Output |
+| 12:00 – 12:45 PM | Lunch Break |
+| 12:45 – 1:55 PM | Practice Session – Guided coding exercises |
+| 2:00 – 3:25 PM | Flow of Control – Conditionals and Loops |
+| 3:30 – 5:00 PM | Practice Session – Apply flow control to real problems |
+
+---
+
+### **Day 2 (9:00 AM – 5:00 PM)**
+
+| Time Slot | Session |
+|-----------|---------|
+| 9:00 – 9:30 AM | Revision – Refresh Day 1’s concepts |
+| 9:30 – 11:00 AM | Functions & Reusing Code – Write modular, reusable programs |
+| 11:00 – 12:00 PM | Practice Session – Build confidence with exercises |
+| 12:00 – 12:45 PM | Lunch Break |
+| 12:45 – 2:15 PM | Modules & Packages – Explore Python’s built-in and external tools |
+| 2:15 – 4:30 PM | Mega Practice Session – Apply everything in larger coding challenges |
+| 4:30 – 5:00 PM | Closing & Next Steps – Roadmap for continuing your programming journey |
 
 ---
 
@@ -96,7 +106,7 @@ This is your chance to start programming from scratch in just **2 days** with th
 
 ## **Enrolment & next steps**
 
-* **Bootcamp Dates:** 8th/9th November, 2025 OR 22nd/23rd November, 2025  
+* **Bootcamp Dates:** Weekend of **November 1–2, 2025** or **December 6–7, 2025**  
 * **Price:** 200 CAD
 * **Seats:** Limited to 10 to keep workshops interactive
 
