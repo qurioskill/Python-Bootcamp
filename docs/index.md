@@ -110,7 +110,7 @@ This is your chance to start programming from scratch in just **2 days** with th
 * **Price:** 200 CAD
 * **Seats:** Limited to 10 to keep workshops interactive
 
-[**Register Now →**](https://forms.gle/x7qAfwzBngdA2UfH6)
+[**Register Now →**](https://www.eventbrite.ca/e/2-day-python-bootcamp-build-your-programming-foundations-tickets-1758572821649?aff=oddtdtcreator)
 
 Have questions? Email **hello@qurioskill.com**
 
